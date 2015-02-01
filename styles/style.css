@@ -10,11 +10,8 @@ body{
 #title{ 
   font-family:'Lobster',cursive;
 }
-#footer{
-    clear: both;
-    position: bottom;
-    z-index: 10;
-    height: 3em;
-    margin-top: -3em;
+#footer {
+    position:fixed;
+    bottom:0;
 }
 
