@@ -1,3 +1,9 @@
+img{
+    position: right
+    top: 30px;
+    right: 5px;
+}
+
 body{
   font-family:'Lobster',cursive;
   }
