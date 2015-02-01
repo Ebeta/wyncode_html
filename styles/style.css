@@ -10,4 +10,11 @@ body{
 #title{ 
   font-family:'Lobster',cursive;
 }
+#footer {
+    clear: both;
+    position: relative;
+    z-index: 10;
+    height: 3em;
+    margin-top: -3em;
+}
 
