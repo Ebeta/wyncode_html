@@ -2,7 +2,9 @@
 body{
   font-family:'Lobster',cursive;
   }
-
+main p{
+  font-size:20;
+}
   
   h1{ 
     font-family:'Lobster',cursive;
