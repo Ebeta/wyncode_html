@@ -7,10 +7,10 @@ body{
     font-family:'Lobster',cursive;
   }
   
-#title{ 
+title{ 
   font-family:'Lobster',cursive;
 }
-#footer {
+footer {
     position:fixed;
     bottom:0;
 }
