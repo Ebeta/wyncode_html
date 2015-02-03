@@ -4,7 +4,9 @@ body{
 main p{
   font-size:20;
 }
-  
+  object.img{
+    float: left;
+  }
   h1{ 
     font-family:'Lobster',cursive;
   }
